@@ -1,0 +1,10 @@
+[user]
+	email = neelk1123@gmail.com
+	name = Neel Kuila
+[push]
+	default = simple
+[alias]
+	s = status
+	c = commit
+	co = checkout
+	b = branch
